@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696356480607",
+    "project_id": "abclogger-android",
+    "storage_bucket": "abclogger-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696356480607:android:630b172022e1da9f7cddea",
+        "android_client_info": {
+          "package_name": "kaist.iclab.mydatalogger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0J2Bsc0iIxktX4rukCvZFpGSBZNJY4Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
